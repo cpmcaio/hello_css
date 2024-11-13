@@ -1,0 +1,18 @@
+h1{
+    color:white;font-size: 16px;
+    text-align: center;
+    background-color: gray;
+}
+p{
+    color:red; font-size: 12px;
+}
+.texto{
+    color:red
+}
+.texto-itálico{
+    font-style: italic;
+}
+span{
+    color: blue;
+    font-weight: bold;
+}
